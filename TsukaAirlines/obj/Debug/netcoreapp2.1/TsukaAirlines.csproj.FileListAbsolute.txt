@@ -1,0 +1,11 @@
+C:\Users\49549303837\Documents\Senai\projetos\CSharp\Introdução OOP\TsukaAirlines\bin\Debug\netcoreapp2.1\TsukaAirlines.deps.json
+C:\Users\49549303837\Documents\Senai\projetos\CSharp\Introdução OOP\TsukaAirlines\bin\Debug\netcoreapp2.1\TsukaAirlines.runtimeconfig.json
+C:\Users\49549303837\Documents\Senai\projetos\CSharp\Introdução OOP\TsukaAirlines\bin\Debug\netcoreapp2.1\TsukaAirlines.runtimeconfig.dev.json
+C:\Users\49549303837\Documents\Senai\projetos\CSharp\Introdução OOP\TsukaAirlines\bin\Debug\netcoreapp2.1\TsukaAirlines.dll
+C:\Users\49549303837\Documents\Senai\projetos\CSharp\Introdução OOP\TsukaAirlines\bin\Debug\netcoreapp2.1\TsukaAirlines.pdb
+C:\Users\49549303837\Documents\Senai\projetos\CSharp\Introdução OOP\TsukaAirlines\obj\Debug\netcoreapp2.1\TsukaAirlines.csprojAssemblyReference.cache
+C:\Users\49549303837\Documents\Senai\projetos\CSharp\Introdução OOP\TsukaAirlines\obj\Debug\netcoreapp2.1\TsukaAirlines.csproj.CoreCompileInputs.cache
+C:\Users\49549303837\Documents\Senai\projetos\CSharp\Introdução OOP\TsukaAirlines\obj\Debug\netcoreapp2.1\TsukaAirlines.AssemblyInfoInputs.cache
+C:\Users\49549303837\Documents\Senai\projetos\CSharp\Introdução OOP\TsukaAirlines\obj\Debug\netcoreapp2.1\TsukaAirlines.AssemblyInfo.cs
+C:\Users\49549303837\Documents\Senai\projetos\CSharp\Introdução OOP\TsukaAirlines\obj\Debug\netcoreapp2.1\TsukaAirlines.dll
+C:\Users\49549303837\Documents\Senai\projetos\CSharp\Introdução OOP\TsukaAirlines\obj\Debug\netcoreapp2.1\TsukaAirlines.pdb
